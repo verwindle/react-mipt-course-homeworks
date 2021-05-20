@@ -87,7 +87,7 @@
         "key": "1",
         "value": "/images/board-logo/1.svg"
     },
-    "tasks": [],
+    "tasks": ["609ecc6b6f7943001c76de31", "609f8b576f7943001c76de32", "609f99026f7943001c76de33", "609fa1f86f7943001c76de34", "609fadf16f7943001c76de35", "609fb0a06f7943001c76de36", "609fb4a16f7943001c76de37", "609fb4a16f7943001c76de39", "609fb4a16f7943001c76de38", "609fb4a16f7943001c76de3a", "609fb4a26f7943001c76de3b", "609fb4a26f7943001c76de3c", "609fb4a26f7943001c76de3d", "609fb4a26f7943001c76de3e", "609fb4a36f7943001c76de3f", "609fb4a36f7943001c76de40", "609fb4a36f7943001c76de41", "609fb4a36f7943001c76de42", "609fb4a56f7943001c76de43", "609fb4a56f7943001c76de44", "609fb4a56f7943001c76de45", "609fb4a56f7943001c76de46", "609fb4a96f7943001c76de47", "609fb4a96f7943001c76de48", "609fb4a96f7943001c76de49", "609fb4aa6f7943001c76de4a"],
     "_id": "607c51a16f7943001c76dde8",
     "title": "board",
     "key": "BRD",
@@ -95,6 +95,146 @@
         "_id": "607c51956f7943001c76dde7",
         "name": "kek",
         "email": "lol",
+        "__v": 0
+    },
+    "__v": 0
+}, {
+    "category": {
+        "key": "finance",
+        "value": "Finance"
+    },
+    "icon": {
+        "key": "1",
+        "value": "/images/board-logo/1.svg"
+    },
+    "tasks": ["60a00ff56f7943001c76de4f"],
+    "_id": "60a00fbd6f7943001c76de4e",
+    "title": "board1",
+    "key": "BRD1",
+    "owner": {
+        "_id": "6085392b6f7943001c76de18",
+        "name": "Антон Андреевич Корсачев",
+        "email": "aakorsachev@phystech.edu",
+        "__v": 0
+    },
+    "__v": 0
+}, {
+    "category": {
+        "key": "revenue",
+        "value": "Revenue"
+    },
+    "icon": {
+        "key": "1",
+        "value": "/images/board-logo/1.svg"
+    },
+    "tasks": [],
+    "_id": "60a015cc6f7943001c76de50",
+    "title": "board3",
+    "key": "BRD3",
+    "owner": {
+        "_id": "609ecc5a6f7943001c76de30",
+        "name": "whiteDwaft",
+        "email": "whiteDwaft",
+        "__v": 0
+    },
+    "__v": 0
+}, {
+    "category": {
+        "key": "operations",
+        "value": "Operations"
+    },
+    "icon": {
+        "key": "1",
+        "value": "/images/board-logo/1.svg"
+    },
+    "tasks": [],
+    "_id": "60a016786f7943001c76de51",
+    "title": "board4",
+    "key": "BRD4",
+    "owner": {
+        "_id": "609ecc5a6f7943001c76de30",
+        "name": "whiteDwaft",
+        "email": "whiteDwaft",
+        "__v": 0
+    },
+    "__v": 0
+}, {
+    "category": {
+        "key": "finance",
+        "value": "Finance"
+    },
+    "icon": {
+        "key": "1",
+        "value": "/images/board-logo/1.svg"
+    },
+    "tasks": [],
+    "_id": "60a0174b6f7943001c76de52",
+    "title": "board6",
+    "key": "BRD6",
+    "owner": {
+        "_id": "609ecc5a6f7943001c76de30",
+        "name": "whiteDwaft",
+        "email": "whiteDwaft",
+        "__v": 0
+    },
+    "__v": 0
+}, {
+    "category": {
+        "key": "revenue",
+        "value": "Revenue"
+    },
+    "icon": {
+        "key": "1",
+        "value": "/images/board-logo/1.svg"
+    },
+    "tasks": [],
+    "_id": "60a017e26f7943001c76de53",
+    "title": "board7",
+    "key": "BRD7",
+    "owner": {
+        "_id": "609ecc5a6f7943001c76de30",
+        "name": "whiteDwaft",
+        "email": "whiteDwaft",
+        "__v": 0
+    },
+    "__v": 0
+}, {
+    "category": {
+        "key": "finance",
+        "value": "Finance"
+    },
+    "icon": {
+        "key": "1",
+        "value": "/images/board-logo/1.svg"
+    },
+    "tasks": [],
+    "_id": "60a018eb6f7943001c76de54",
+    "title": "board8",
+    "key": "BRD8",
+    "owner": {
+        "_id": "609ecc5a6f7943001c76de30",
+        "name": "whiteDwaft",
+        "email": "whiteDwaft",
+        "__v": 0
+    },
+    "__v": 0
+}, {
+    "category": {
+        "key": "revenue",
+        "value": "Revenue"
+    },
+    "icon": {
+        "key": "1",
+        "value": "/images/board-logo/1.svg"
+    },
+    "tasks": [],
+    "_id": "60a019816f7943001c76de55",
+    "title": "board9",
+    "key": "BRD9",
+    "owner": {
+        "_id": "609ecc5a6f7943001c76de30",
+        "name": "whiteDwaft",
+        "email": "whiteDwaft",
         "__v": 0
     },
     "__v": 0
@@ -127,7 +267,7 @@
         "key": "1",
         "value": "/images/board-logo/1.svg"
     },
-    "tasks": [],
+    "tasks": ["609fb9f46f7943001c76de4b", "609fe2406f7943001c76de4c", "609fe30a6f7943001c76de4d"],
     "_id": "607481246f7943001c76ddd0",
     "title": "uuuii",
     "key": "III",

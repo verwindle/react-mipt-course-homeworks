@@ -1,35 +1,13 @@
-import styled from 'styled-components/macro';
-
-export const Grid = styled.section`
-    display: grid;
-    width: 100%;
-    grid-template-columns: 30% 30% 30%;
-    padding: 3%;
-    overflow: hidden;
-`;
-
-export const Wrap = styled.div`
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-    justify-content: space-between;
-    max-width: 1800px;
-    margin: auto;
-    width: 100%;
-
-    @media (max-width: 1600px) {
-        flex-direction: column;
-    }
-`;
+import styled from "styled-components/macro";
 
 export const Title = styled.h1`
     font-size: 46px;
     font-weight: 0;
     line-height: 1.5;
     text-align: center;
-    -webkit-box-shadow: 0 2px 5px 3px #2F9889;
-    moz-box-shadow: 0 2px 5px 3px #2F9889;
-    box-shadow: 0 2px 5px 3px #2F9889;
+    -webkit-box-shadow: 0 2px 5px 3px #2f9889;
+    moz-box-shadow: 0 2px 5px 3px #2f9889;
+    box-shadow: 0 2px 5px 3px #2f9889;
     padding: 10px 5%;
     color: #222;
 
@@ -52,10 +30,12 @@ export const Subtitle = styled.h3`
 
 export const Paragraph = styled.p`
     text-align: ${({ alignment }) => alignment};
-    padding: 0 .5rem;
+    padding: 0 0.5rem;
     width: 97%;
+    word-wrap: break-word;
+    white-space: pre-line;
 
-    @media (max-width: 700px) {
+    @media (max-width: 400px) {
         font-size: 18px;
     }
 `;
